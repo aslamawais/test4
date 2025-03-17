@@ -1,0 +1,9 @@
+git init -> 		it will intiat a new directory as git
+git add *-> 		 it will add all files
+git add <file name> -> 		it will add the file by name
+git diff <file name> -> 	it will display difference before "git add"
+git commit -m "comment" ->	 it will commit to git local folder with adding comments
+git status -> 		it will display status of the folder
+git log -> 		it will display logs of the commits
+git restore <file name> ->	 it will restore the previous version (before commit)
+git new command in file
