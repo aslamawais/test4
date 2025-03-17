@@ -7,30 +7,6 @@ git status -> 		it will display status of the folder
 git log -> 		it will display logs of the commits
 git restore <file name> ->	 it will restore the previous version (before commit)
 git new command in file
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 --------------------------------------------------------------------
 Master		Release		Master		Release
 
